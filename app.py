@@ -30,9 +30,10 @@ with st.sidebar:
     st.subheader('Natural Language Processing')
     st.image(image2)
     st.write("""
-    This model demonstrates **NLP** using a **Extreme Tree Classifier** -a very fast machine learning algorithm. 
+    This model demonstrates the usage of **NLP** by utilizing the **Extreme Tree Classifier** machine learning algorithm. 
     
-    The purpose of the mode is to predict 20 medical categories from text inputs.
+    The purpose of the model is to predict 20 medical categories from medical articles by using Natural Language Processing (NLP).
+    
     The model was trained using approximately 65,000 articles from the New England Journal of Medicine. 
 
     """)
