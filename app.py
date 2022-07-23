@@ -19,6 +19,7 @@ footer {
 footer:before{
     content:' © 2022 Krischan Kunkel,    '
 }
+.block-container{ padding-top: 10px}
 </style>
 """
 st.markdown(hide_menu,unsafe_allow_html=True)
