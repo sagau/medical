@@ -25,7 +25,7 @@ footer:before{
 """
 st.markdown(hide_menu,unsafe_allow_html=True)
 st.header('Categorization of Medical Articles')
-st.subheader('Using Machine Learning - NLP')
+st.subheader('Machine Learning - NLP')
 st.image(image)
 
 with st.sidebar:
