@@ -116,7 +116,7 @@ if file:
             )
             
     except:
-        st.error('Please make sure you are using the right file format. Use the template if necessary.')
+        st.error('Please make sure you are uploading a valid a csv file. Use the template if necessary.')
 
 
 if not demo and not file:
